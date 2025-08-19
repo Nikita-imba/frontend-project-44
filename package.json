@@ -2,7 +2,12 @@
   "name": "@hexlet/code",
   "version": "1.0.0",
   "description": "Brain Games - collection of math games",
-  "keywords": ["games", "brain", "math", "cli"],
+  "keywords": [
+    "games",
+    "brain",
+    "math",
+    "cli"
+  ],
   "bin": {
     "brain-games": "bin/brain-games.js"
   },
@@ -11,5 +16,8 @@
   "type": "module",
   "engines": {
     "node": ">=14"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
   }
 }
