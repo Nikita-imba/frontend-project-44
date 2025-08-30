@@ -7,3 +7,7 @@
 
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/Nikita-imba/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Nikita-imba/frontend-project-44/actions)
+
+## 🎮 Демонстрация игры brain-even
+
+[![asciicast](https://asciinema.org/a/FNuWsFp2gCM2ye6URkKu2XwWq.svg)](https://asciinema.org/a/FNuWsFp2gCM2ye6URkKu2XwWq)
