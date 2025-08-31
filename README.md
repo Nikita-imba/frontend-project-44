@@ -11,3 +11,6 @@
 ## 🎮 Демонстрация игры brain-even
 
 [![asciicast](https://asciinema.org/a/FNuWsFp2gCM2ye6URkKu2XwWq.svg)](https://asciinema.org/a/FNuWsFp2gCM2ye6URkKu2XwWq)
+
+### Brain Calc  
+[![asciicast](https://asciinema.org/a/YYY.svg)](https://asciinema.org/a/YYY)
