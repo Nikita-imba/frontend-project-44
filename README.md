@@ -8,18 +8,17 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/Nikita-imba/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Nikita-imba/frontend-project-44/actions)
 
-## 🎮 Демонстрация игры brain-even
+## 🎮 Демонстрация игры Brain Even
+[![asciicast](brain-even-demo.cast)](brain-even-demo.cast)
 
-[![asciicast](https://asciinema.org/a/FNuWsFp2gCM2ye6URkKu2XwWq.svg)](https://asciinema.org/a/FNuWsFp2gCM2ye6URkKu2XwWq)
+## 🎮 Демонстрация игры Brain Calc
+[![asciicast](brain-calc-demo.cast)](brain-calc-demo.cast)
 
-### Brain Calc
-[![asciicast](https://asciinema.org/a/rE851Nv205jsNSYQunmSNLgKR.svg)](https://asciinema.org/a/rE851Nv205jsNSYQunmSNLgKR)
+## 🎮 Демонстрация игры Brain GCD
+[![asciicast](brain-gcd-demo.cast)](brain-gcd-demo.cast)
 
-### Brain GCD
-[![asciicast](https://asciinema.org/a/5bOgbIwF1wSI9Ne3hYyrOWzBG.svg)](https://asciinema.org/a/5bOgbIwF1wSI9Ne3hYyrOWzBG)
+## 🎮 Демонстрация игры Brain Progression
+[![asciicast](brain-progression-demo.cast)](brain-progression-demo.cast)
 
-## brain-progression
-[![asciicast](https://asciinema.org/a/Nri3o3635OoMHgIASyhvsLHBF.svg)](https://asciinema.org/a/Nri3o3635OoMHgIASyhvsLHBF)
-
-### Brain Prime
-[![asciicast](https://asciinema.org/a/nl6a5lSjk04aPMpiU5nUok6k4.svg)](https://asciinema.org/a/nl6a5lSjk04aPMpiU5nUok6k4)
+## 🎮 Демонстрация игры Brain Prime
+[![asciicast](brain-prime-demo.cast)](brain-prime-demo.cast)
