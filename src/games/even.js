@@ -1,5 +1,5 @@
 import readlineSync from 'readline-sync'
-const isEven = (number) => number % 2 === 0
+const isEven = number => number % 2 === 0
 export const runEvenGame = () => {
   console.log('Welcome to the Brain Games!')
   const name = readlineSync.question('May I have your name? ')

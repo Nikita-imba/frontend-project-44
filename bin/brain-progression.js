@@ -27,7 +27,8 @@ export const playGame = () => {
     const answer = readlineSync.question('Your answer: ')
     if (answer === correctAnswer.toString()) {
       console.log('Correct!')
-    } else {
+    }
+    else {
       console.log(`'${answer}' is wrong answer ;(. Correct answer was '${correctAnswer}'.`)
       console.log(`Let's try again, ${name}!`)
       return

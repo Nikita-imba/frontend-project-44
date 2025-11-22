@@ -16,9 +16,11 @@ export function runCalcGame() {
     let result
     if (operator === '+') {
       result = number1 + number2
-    } else if (operator === '-') {
+    }
+    else if (operator === '-') {
       result = number1 - number2
-    } else if (operator === '*') {
+    }
+    else if (operator === '*') {
       result = number1 * number2
     }
     // Исправили вывод вопроса
@@ -28,7 +30,8 @@ export function runCalcGame() {
       console.log('\'' + userAnswer + '\' is wrong answer ;(. Correct answer was \'' + result + '\'.')
       console.log(`Let's try again, ${name}!`)
       return
-    } else {
+    }
+    else {
       console.log('Correct!')
     }
   }

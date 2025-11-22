@@ -20,8 +20,8 @@ export default [
       '@stylistic/no-multiple-empty-lines': ['error', { max: 0 }],
       '@stylistic/no-trailing-spaces': 'error',
       '@stylistic/comma-dangle': ['error', 'always-multiline'],
-      '@stylistic/brace-style': ['error', '1tbs'],
-      '@stylistic/arrow-parens': ['error', 'always'],
+      '@stylistic/brace-style': ['error', 'stroustrup'],
+      '@stylistic/arrow-parens': ['error', 'as-needed'],
     },
   },
 ]
